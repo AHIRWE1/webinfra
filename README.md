@@ -68,10 +68,11 @@ HAProxy (Load Balancer)
 RapidAPI integrations
 
 📸 Demo Video
-Coming soon...
+Here is the link to video.
+https://youtu.be/pNjrQdwkuTw
+
 
 Author
 Gabriella Ange Ahirwe
-LinkedIn | GitHub
 
 © 2025 FitPlanner — Built with care and purpose 💙
